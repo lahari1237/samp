@@ -4,7 +4,7 @@ terraform{
      key=
      encrypt=
      region=
-     dynamodb_table=
+     dynamodb_table1=
 
      }
    }
